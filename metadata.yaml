@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31750'
     url: http://www.gutenberg.org/2009/agents/31750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26035#Religion-and-Theology--A-Sermon-for-the-Times--13-Preached-in-the-Parish-Church-of-Crathie-fi_
 gutenberg_issued: '2008-07-12'
 gutenberg_type: Text
 identifiers:
